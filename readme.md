@@ -7,3 +7,7 @@
 * Motor drivers
 * Robot Kit (Mechanical)
 * Batteries
+
+### Software
+#### Balance Algorithm
+Kalman Filter implementation for estate estimation
