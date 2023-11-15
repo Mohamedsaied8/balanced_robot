@@ -1,7 +1,7 @@
 #include <iostream>
 
+// design filter..
 int main()
 {
-    // implement kalman filter
     return 0;
 }
